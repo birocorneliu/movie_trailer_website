@@ -1,48 +1,15 @@
+import json
+import os
+
 import fresh_tomatoes
-import media
+from media import Movie
 
-movies = [
-    {
-    "title": "",
-    "storyline": "",
-    "image": "",
-    "youtube_trailer": ""
-    },
-    {
-    "title": "",
-    "storyline": "",
-    "image": "",
-    "youtube_trailer": ""
-    },
-    {
-    "title": "",
-    "storyline": "",
-    "image": "",
-    "youtube_trailer": ""
-    },
-    {
-    "title": "",
-    "storyline": "",
-    "image": "",
-    "youtube_trailer": ""
-    },
-    {
-    "title": "",
-    "storyline": "",
-    "image": "",
-    "youtube_trailer": ""
-    },
-    {
-    "title": "",
-    "storyline": "",
-    "image": "",
-    "youtube_trailer": ""
-    },
-]
 
-toy_story = media.Movie("Toy Story",
-                        "A story",
-                        "http://google.ro",
-                        "https://www.youtube.com/watch?v=g2PMoUIQDCk")
+dir_path = os.path.dirname(os.path.realpath(__file__))
+json_path = "{}/movies.json".format(dir_path)
+with open(json_path) as file_obj:
+    movies_json = json.load(file_obj)
 
-fresh_tomatoes.open_movies_page([toy_story for i in range(5)])
+
+movies = [Movie(**movie) for movie in movies_json]
+fresh_tomatoes.open_movies_page(movies)

@@ -1,0 +1,38 @@
+[
+    {
+    "title": "Fifty Shades of Grey",
+    "storyline": "Literature student Anastasia Steele's life changes forever when she meets handsome, yet tormented, billionaire Christian Grey.",
+    "image": "http://ia.media-imdb.com/images/M/MV5BMjE1MTM4NDAzOF5BMl5BanBnXkFtZTgwNTMwNjI0MzE@._V1_SX214_AL_.jpg",
+    "youtube_trailer": "https://www.youtube.com/watch?v=SfZWFDs0LxA"
+    },
+    {
+    "title": "Hulk",
+    "storyline": "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
+    "image": "http://ia.media-imdb.com/images/M/MV5BMTQxNzUxNTE4Nl5BMl5BanBnXkFtZTYwMjcyNTk5._V1_SY317_CR6,0,214,317_AL_.jpg",
+    "youtube_trailer": "https://www.youtube.com/watch?v=2ErnLuJKQA4"
+    },
+    {
+    "title": "The Amazing Spider-Man 2",
+    "storyline": "When New York is put under siege by Oscorp, it is up to Spider-Man to save the city he swore to protect as well as his loved ones.",
+    "image": "http://ia.media-imdb.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_SX214_AL_.jpg",
+    "youtube_trailer": "https://www.youtube.com/watch?v=1VkzArhVhIA"
+    },
+    {
+    "title": "American Sniper",
+    "storyline": "Navy SEAL sniper Chris Kyle's pinpoint accuracy saves countless lives on the battlefield and turns him into a legend. Back home to his wife and kids after four tours of duty, however, Chris finds that it is the war he can't leave behind.",
+    "image": "http://ia.media-imdb.com/images/M/MV5BMTkxNzI3ODI4Nl5BMl5BanBnXkFtZTgwMjkwMjY4MjE@._V1_SX214_AL_.jpg",
+    "youtube_trailer": "https://www.youtube.com/watch?v=99k3u9ay1gs"
+    },
+    {
+    "title": "Predators",
+    "storyline": "A group of elite warriors are hunted by members of a merciless alien race known as Predators.",
+    "image": "http://ia.media-imdb.com/images/M/MV5BMjA5MzYwODgzOV5BMl5BanBnXkFtZTcwMTQwMjUyMw@@._V1_SY317_CR0,0,214,317_AL_.jpg",
+    "youtube_trailer": "https://www.youtube.com/watch?v=9u8vZwvP57Y"
+    },
+    {
+    "title": "Iron Man",
+    "storyline": "With the world now aware of his identity as Iron Man, Tony Stark must contend with both his declining health and a vengeful mad man with ties to his father's legacy.",
+    "image": "http://ia.media-imdb.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_SX214_AL_.jpg",
+    "youtube_trailer": "https://www.youtube.com/watch?v=FNQowwwwYa0"
+    }
+]
