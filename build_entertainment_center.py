@@ -1,3 +1,6 @@
+"""This module imports Movie class, a json to build several Movie entities and
+fresh_tomatoes module to build the html
+"""
 import json
 import os
 
